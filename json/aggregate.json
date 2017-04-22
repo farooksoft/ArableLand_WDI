@@ -1,0 +1,515 @@
+[
+  {
+    "Year": "1960",
+    "ASIA": null,
+    "EUROPE": null,
+    "AFRICA": null,
+    "OCEANIA": null,
+    "N_AMERICA": null,
+    "S_AMERICA": null
+  },
+  {
+    "Year": "1961",
+    "ASIA": 5550000,
+    "EUROPE": 7175000,
+    "AFRICA": 28583000,
+    "OCEANIA": 10000,
+    "N_AMERICA": 248981000,
+    "S_AMERICA": 56214000
+  },
+  {
+    "Year": "1962",
+    "ASIA": 5550000,
+    "EUROPE": 7236000,
+    "AFRICA": 28646000,
+    "OCEANIA": 10000,
+    "N_AMERICA": 245735000,
+    "S_AMERICA": 58788000
+  },
+  {
+    "Year": "1963",
+    "ASIA": 5550000,
+    "EUROPE": 7275000,
+    "AFRICA": 29934000,
+    "OCEANIA": 10000,
+    "N_AMERICA": 248618000,
+    "S_AMERICA": 61490000
+  },
+  {
+    "Year": "1964",
+    "ASIA": 5550000,
+    "EUROPE": 7354000,
+    "AFRICA": 30605000,
+    "OCEANIA": 10000,
+    "N_AMERICA": 247489000,
+    "S_AMERICA": 63144000
+  },
+  {
+    "Year": "1965",
+    "ASIA": 5550000,
+    "EUROPE": 7339000,
+    "AFRICA": 30729000,
+    "OCEANIA": 13000,
+    "N_AMERICA": 246677000,
+    "S_AMERICA": 64731000
+  },
+  {
+    "Year": "1966",
+    "ASIA": 5550000,
+    "EUROPE": 7324000,
+    "AFRICA": 30968000,
+    "OCEANIA": 13000,
+    "N_AMERICA": 245629000,
+    "S_AMERICA": 66825000
+  },
+  {
+    "Year": "1967",
+    "ASIA": 5570000,
+    "EUROPE": 7309000,
+    "AFRICA": 31132000,
+    "OCEANIA": 13000,
+    "N_AMERICA": 244488000,
+    "S_AMERICA": 68552000
+  },
+  {
+    "Year": "1968",
+    "ASIA": 5590000,
+    "EUROPE": 7277000,
+    "AFRICA": 31320000,
+    "OCEANIA": 13000,
+    "N_AMERICA": 251183000,
+    "S_AMERICA": 72064000
+  },
+  {
+    "Year": "1969",
+    "ASIA": 5600000,
+    "EUROPE": 7163000,
+    "AFRICA": 31501000,
+    "OCEANIA": 13000,
+    "N_AMERICA": 259370000,
+    "S_AMERICA": 75113000
+  },
+  {
+    "Year": "1970",
+    "ASIA": 5630000,
+    "EUROPE": 7102000,
+    "AFRICA": 32685000,
+    "OCEANIA": 15000,
+    "N_AMERICA": 258146000,
+    "S_AMERICA": 77320000
+  },
+  {
+    "Year": "1971",
+    "ASIA": 5630000,
+    "EUROPE": 7132000,
+    "AFRICA": 32989000,
+    "OCEANIA": 15000,
+    "N_AMERICA": 257578000,
+    "S_AMERICA": 79366000
+  },
+  {
+    "Year": "1972",
+    "ASIA": 5650000,
+    "EUROPE": 7129000,
+    "AFRICA": 33384000,
+    "OCEANIA": 15000,
+    "N_AMERICA": 257360000,
+    "S_AMERICA": 80730000
+  },
+  {
+    "Year": "1973",
+    "ASIA": 5680000,
+    "EUROPE": 7075000,
+    "AFRICA": 33443000,
+    "OCEANIA": 15000,
+    "N_AMERICA": 257255000,
+    "S_AMERICA": 81909000
+  },
+  {
+    "Year": "1974",
+    "ASIA": 5700000,
+    "EUROPE": 7067000,
+    "AFRICA": 33665000,
+    "OCEANIA": 15000,
+    "N_AMERICA": 256664000,
+    "S_AMERICA": 84096000
+  },
+  {
+    "Year": "1975",
+    "ASIA": 5700000,
+    "EUROPE": 6869000,
+    "AFRICA": 33907000,
+    "OCEANIA": 16000,
+    "N_AMERICA": 257085000,
+    "S_AMERICA": 85212000
+  },
+  {
+    "Year": "1976",
+    "ASIA": 5900000,
+    "EUROPE": 6894000,
+    "AFRICA": 34236000,
+    "OCEANIA": 16000,
+    "N_AMERICA": 257463000,
+    "S_AMERICA": 86487000
+  },
+  {
+    "Year": "1977",
+    "ASIA": 5980000,
+    "EUROPE": 6921000,
+    "AFRICA": 34153000,
+    "OCEANIA": 17000,
+    "N_AMERICA": 258089000,
+    "S_AMERICA": 87611000
+  },
+  {
+    "Year": "1978",
+    "ASIA": 5999000,
+    "EUROPE": 6936000,
+    "AFRICA": 35114000,
+    "OCEANIA": 17000,
+    "N_AMERICA": 260729000,
+    "S_AMERICA": 87666000
+  },
+  {
+    "Year": "1979",
+    "ASIA": 5970000,
+    "EUROPE": 6829000,
+    "AFRICA": 34736000,
+    "OCEANIA": 18000,
+    "N_AMERICA": 260874000,
+    "S_AMERICA": 88607000
+  },
+  {
+    "Year": "1980",
+    "ASIA": 5940000,
+    "EUROPE": 6918000,
+    "AFRICA": 34601000,
+    "OCEANIA": 18000,
+    "N_AMERICA": 261337000,
+    "S_AMERICA": 88796000
+  },
+  {
+    "Year": "1981",
+    "ASIA": 5910000,
+    "EUROPE": 6907000,
+    "AFRICA": 34580000,
+    "OCEANIA": 19000,
+    "N_AMERICA": 261688000,
+    "S_AMERICA": 89537000
+  },
+  {
+    "Year": "1982",
+    "ASIA": 5880000,
+    "EUROPE": 6913000,
+    "AFRICA": 34671000,
+    "OCEANIA": 19000,
+    "N_AMERICA": 260953000,
+    "S_AMERICA": 91854000
+  },
+  {
+    "Year": "1983",
+    "ASIA": 5850000,
+    "EUROPE": 6899000,
+    "AFRICA": 35273000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 261539000,
+    "S_AMERICA": 91933000
+  },
+  {
+    "Year": "1984",
+    "ASIA": 5820000,
+    "EUROPE": 6922000,
+    "AFRICA": 35620000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 261554500,
+    "S_AMERICA": 92119000
+  },
+  {
+    "Year": "1985",
+    "ASIA": 5616000,
+    "EUROPE": 6990000,
+    "AFRICA": 36837000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 262072000,
+    "S_AMERICA": 92304000
+  },
+  {
+    "Year": "1986",
+    "ASIA": 5570000,
+    "EUROPE": 6940000,
+    "AFRICA": 37047000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 261922000,
+    "S_AMERICA": 94001000
+  },
+  {
+    "Year": "1987",
+    "ASIA": 5527000,
+    "EUROPE": 6935000,
+    "AFRICA": 37222000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 260881000,
+    "S_AMERICA": 94104000
+  },
+  {
+    "Year": "1988",
+    "ASIA": 5460000,
+    "EUROPE": 6886000,
+    "AFRICA": 37424000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 261502000,
+    "S_AMERICA": 93812000
+  },
+  {
+    "Year": "1989",
+    "ASIA": 5400000,
+    "EUROPE": 6702000,
+    "AFRICA": 37800000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 262567000,
+    "S_AMERICA": 93849000
+  },
+  {
+    "Year": "1990",
+    "ASIA": 5339000,
+    "EUROPE": 6620000,
+    "AFRICA": 37790000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 263565000,
+    "S_AMERICA": 94455000
+  },
+  {
+    "Year": "1991",
+    "ASIA": 5368000,
+    "EUROPE": 6567000,
+    "AFRICA": 37769000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 264446000,
+    "S_AMERICA": 95646000
+  },
+  {
+    "Year": "1992",
+    "ASIA": 442763800,
+    "EUROPE": 58488100,
+    "AFRICA": 37696000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 263057000,
+    "S_AMERICA": 95585000
+  },
+  {
+    "Year": "1993",
+    "ASIA": 438955300,
+    "EUROPE": 57793900,
+    "AFRICA": 39733000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 262115000,
+    "S_AMERICA": 95867000
+  },
+  {
+    "Year": "1994",
+    "ASIA": 435066200,
+    "EUROPE": 57400200,
+    "AFRICA": 40118000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 261374000,
+    "S_AMERICA": 96704000
+  },
+  {
+    "Year": "1995",
+    "ASIA": 433030400,
+    "EUROPE": 56649200,
+    "AFRICA": 41096000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 261541000,
+    "S_AMERICA": 102040000
+  },
+  {
+    "Year": "1996",
+    "ASIA": 429737400,
+    "EUROPE": 57157900,
+    "AFRICA": 42330000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 258640000,
+    "S_AMERICA": 102101000
+  },
+  {
+    "Year": "1997",
+    "ASIA": 431036300,
+    "EUROPE": 57118500,
+    "AFRICA": 42229000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 257562000,
+    "S_AMERICA": 102540000
+  },
+  {
+    "Year": "1998",
+    "ASIA": 430174800,
+    "EUROPE": 56161300,
+    "AFRICA": 41867000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 256924000,
+    "S_AMERICA": 103097200
+  },
+  {
+    "Year": "1999",
+    "ASIA": 428901700,
+    "EUROPE": 55375600,
+    "AFRICA": 42222000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 255740000,
+    "S_AMERICA": 103367800
+  },
+  {
+    "Year": "2000",
+    "ASIA": 424876600,
+    "EUROPE": 55124800,
+    "AFRICA": 42091000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 255437000,
+    "S_AMERICA": 104054400
+  },
+  {
+    "Year": "2001",
+    "ASIA": 421623900,
+    "EUROPE": 54525400,
+    "AFRICA": 41930000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 256072000,
+    "S_AMERICA": 104920000
+  },
+  {
+    "Year": "2002",
+    "ASIA": 418599500,
+    "EUROPE": 54492300,
+    "AFRICA": 42275000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 253674000,
+    "S_AMERICA": 106788000
+  },
+  {
+    "Year": "2003",
+    "ASIA": 416230400,
+    "EUROPE": 54401900,
+    "AFRICA": 44284000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 253086000,
+    "S_AMERICA": 110899500
+  },
+  {
+    "Year": "2004",
+    "ASIA": 417732400,
+    "EUROPE": 54564500,
+    "AFRICA": 45425000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 247420000,
+    "S_AMERICA": 116698000
+  },
+  {
+    "Year": "2005",
+    "ASIA": 416413360,
+    "EUROPE": 54370200,
+    "AFRICA": 46035000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 245226000,
+    "S_AMERICA": 119883500
+  },
+  {
+    "Year": "2006",
+    "ASIA": 410028700,
+    "EUROPE": 81759500,
+    "AFRICA": 46704000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 240287300,
+    "S_AMERICA": 122179600
+  },
+  {
+    "Year": "2007",
+    "ASIA": 409262900,
+    "EUROPE": 80676050,
+    "AFRICA": 47667000,
+    "OCEANIA": 20000,
+    "N_AMERICA": 241565000,
+    "S_AMERICA": 123039000
+  },
+  {
+    "Year": "2008",
+    "ASIA": 407640680,
+    "EUROPE": 80913120,
+    "AFRICA": 49751700,
+    "OCEANIA": 20000,
+    "N_AMERICA": 240943200,
+    "S_AMERICA": 124235000
+  },
+  {
+    "Year": "2009",
+    "ASIA": 407791659,
+    "EUROPE": 80981510,
+    "AFRICA": 50930800,
+    "OCEANIA": 20000,
+    "N_AMERICA": 236559570,
+    "S_AMERICA": 124298400
+  },
+  {
+    "Year": "2010",
+    "ASIA": 405077470,
+    "EUROPE": 79987160,
+    "AFRICA": 51085700,
+    "OCEANIA": 20000,
+    "N_AMERICA": 233573170,
+    "S_AMERICA": 127599400
+  },
+  {
+    "Year": "2011",
+    "ASIA": 405957140,
+    "EUROPE": 80045520,
+    "AFRICA": 52289160,
+    "OCEANIA": 20000,
+    "N_AMERICA": 228182120,
+    "S_AMERICA": 130615700
+  },
+  {
+    "Year": "2012",
+    "ASIA": 406373710,
+    "EUROPE": 79891320,
+    "AFRICA": 53829760,
+    "OCEANIA": 20000,
+    "N_AMERICA": 234588560,
+    "S_AMERICA": 131932900
+  },
+  {
+    "Year": "2013",
+    "ASIA": 409820170,
+    "EUROPE": 79292790,
+    "AFRICA": 53617960,
+    "OCEANIA": 20000,
+    "N_AMERICA": 231556600,
+    "S_AMERICA": 135982100
+  },
+  {
+    "Year": "2014",
+    "ASIA": 411217580,
+    "EUROPE": 79524830,
+    "AFRICA": 53748160,
+    "OCEANIA": 20000,
+    "N_AMERICA": 233820680,
+    "S_AMERICA": 139518800
+  },
+  {
+    "Year": "2015",
+    "ASIA": null,
+    "EUROPE": null,
+    "AFRICA": null,
+    "OCEANIA": null,
+    "N_AMERICA": null,
+    "S_AMERICA": null
+  },
+  {
+    "Year": "2016",
+    "ASIA": null,
+    "EUROPE": null,
+    "AFRICA": null,
+    "OCEANIA": null,
+    "N_AMERICA": null,
+    "S_AMERICA": null
+  }
+]
